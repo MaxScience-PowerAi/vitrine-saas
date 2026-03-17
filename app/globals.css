@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=DM+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold:       #C9A84C;
+  --gold-light: #E8C96A;
+  --gold-dark:  #9C7A2E;
+  --ink:        #0A0A0F;
+  --ink-soft:   #12121A;
+  --ink-muted:  #1E1E2E;
+  --cream:      #FAF7F2;
+  --cream-warm: #F5EFE4;
+  --jade:       #2ECC71;
+  --border:     rgba(201,168,76,.15);
+  --border-soft:rgba(255,255,255,.06);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--ink);
+  color: var(--cream);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Texture grain globale ── */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: .6;
+}
+
+/* ── Glassmorphism cards ── */
+.glass {
+  background: rgba(255,255,255,.04);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,.08);
+}
+.glass-gold {
+  background: rgba(201,168,76,.06);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(201,168,76,.2);
+}
+
+/* ── Gradient text ── */
+.text-gradient {
+  background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold) 50%, var(--gold-dark) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Inputs ── */
+.input-dark {
+  background: rgba(255,255,255,.04);
+  border: 1px solid rgba(255,255,255,.1);
+  color: var(--cream);
+  border-radius: 12px;
+  padding: 14px 18px;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 15px;
+  width: 100%;
+  outline: none;
+  transition: border-color .2s, background .2s;
+}
+.input-dark::placeholder { color: rgba(255,255,255,.25); }
+.input-dark:focus {
+  border-color: rgba(201,168,76,.5);
+  background: rgba(201,168,76,.04);
+}
+
+/* ── Bouton gold ── */
+.btn-gold {
+  background: linear-gradient(135deg, var(--gold-light), var(--gold-dark));
+  color: var(--ink);
+  font-weight: 700;
+  border-radius: 12px;
+  padding: 14px 28px;
+  font-family: 'DM Sans', sans-serif;
+  cursor: pointer;
+  border: none;
+  transition: opacity .2s, transform .15s;
+  font-size: 15px;
+}
+.btn-gold:hover   { opacity: .9; }
+.btn-gold:active  { transform: scale(.98); }
+.btn-gold:disabled{ opacity: .4; cursor: not-allowed; }
+
+/* ── Scrollbar fine ── */
+::-webkit-scrollbar       { width: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--gold-dark); border-radius: 4px; }
+
+/* ── Sélection ── */
+::selection { background: rgba(201,168,76,.25); color: var(--cream); }
+
+/* ── Shimmer loader ── */
+.shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,.05) 25%, rgba(255,255,255,.1) 50%, rgba(255,255,255,.05) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 2s linear infinite;
+}
+
+/* ── Badge status ── */
+.badge-active   { background: rgba(46,204,113,.15); color: #2ECC71; border: 1px solid rgba(46,204,113,.3); }
+.badge-inactive { background: rgba(255,100,100,.12); color: #FF6B6B; border: 1px solid rgba(255,100,100,.25); }
+.badge-pending  { background: rgba(201,168,76,.15);  color: var(--gold); border: 1px solid rgba(201,168,76,.3); }
