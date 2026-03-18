@@ -1,18 +1,19 @@
 # Code Citations
 
 ## License: MIT
+
 https://github.com/pmndrs/zustand/blob/d57072caf5e56b6b9974d4f79a01467063565d67/docs/guides/nextjs.md
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -38,7 +39,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -67,20 +68,20 @@ export interface User {
   boutique_tag
 ```
 
-
 ## License: MIT
+
 https://github.com/pmndrs/zustand/blob/d57072caf5e56b6b9974d4f79a01467063565d67/docs/guides/nextjs.md
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -106,7 +107,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -135,20 +136,20 @@ export interface User {
   boutique_tag
 ```
 
-
 ## License: MIT
+
 https://github.com/mui/mui-toolpad/blob/44fd9073a5a3d3fbaa35c34313926758c8150e5d/packages/create-toolpad-app/src/generateProject.ts
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -174,7 +175,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -209,20 +210,20 @@ export interface User {
   boutique_theme
 ```
 
-
 ## License: MIT
+
 https://github.com/pmndrs/zustand/blob/d57072caf5e56b6b9974d4f79a01467063565d67/docs/guides/nextjs.md
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -248,7 +249,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -283,20 +284,20 @@ export interface User {
   boutique_theme
 ```
 
-
 ## License: MIT
+
 https://github.com/mui/mui-toolpad/blob/44fd9073a5a3d3fbaa35c34313926758c8150e5d/packages/create-toolpad-app/src/generateProject.ts
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -322,7 +323,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -357,20 +358,20 @@ export interface User {
   boutique_theme
 ```
 
-
 ## License: MIT
+
 https://github.com/pmndrs/zustand/blob/d57072caf5e56b6b9974d4f79a01467063565d67/docs/guides/nextjs.md
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -396,7 +397,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -431,20 +432,20 @@ export interface User {
   boutique_theme
 ```
 
-
 ## License: MIT
+
 https://github.com/mui/mui-toolpad/blob/44fd9073a5a3d3fbaa35c34313926758c8150e5d/packages/create-toolpad-app/src/generateProject.ts
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -470,7 +471,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -505,20 +506,20 @@ export interface User {
   boutique_theme
 ```
 
-
 ## License: MIT
+
 https://github.com/webbestmaster/give-a-badge/blob/8627dde7d00b00ad175d9d7d5cd8153bee523072/_res/html-src/src/stylus/_common/_common.styl
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -544,7 +545,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -558,92 +559,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -655,37 +656,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -696,7 +697,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -705,24 +706,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -778,24 +779,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -840,20 +841,20 @@ body::before {
   z-index: 9999
 ```
 
-
 ## License: MIT
+
 https://github.com/webbestmaster/give-a-badge/blob/8627dde7d00b00ad175d9d7d5cd8153bee523072/_res/html-src/src/stylus/_common/_common.styl
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -879,7 +880,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -893,92 +894,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -990,37 +991,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -1031,7 +1032,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -1040,24 +1041,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -1113,24 +1114,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -1174,21 +1175,21 @@ body::before {
   pointer-events: none;
   z-index: 9999
 ```
-
 
 ## License: unknown
+
 https://github.com/rolandw-blog/blogBuilder/blob/a4f212c3566b2bc5386b78b2f43eb55605cc2247/app/src/styles/tinyNoMobile.scss
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -1214,7 +1215,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -1228,92 +1229,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -1325,37 +1326,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -1366,7 +1367,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -1375,24 +1376,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -1448,24 +1449,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -1547,20 +1548,20 @@ a {
   transition: color 0.2
 ```
 
-
 ## License: unknown
+
 https://github.com/rolandw-blog/blogBuilder/blob/a4f212c3566b2bc5386b78b2f43eb55605cc2247/app/src/styles/tinyNoMobile.scss
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -1586,7 +1587,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -1600,92 +1601,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -1697,37 +1698,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -1738,7 +1739,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -1747,24 +1748,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -1820,24 +1821,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -1919,20 +1920,20 @@ a {
   transition: color 0.2
 ```
 
-
 ## License: MIT
+
 https://github.com/mrsharpoblunto/it-gets-the-hose-again/blob/7fed6e6f148d88868f6b1980926144bae8f34864/web/assets/html/index.html
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -1958,7 +1959,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -1972,92 +1973,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -2069,37 +2070,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -2110,7 +2111,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -2119,24 +2120,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -2192,24 +2193,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -2479,7 +2480,7 @@ textarea.input-dark {
       background-position: 1000px 0;
     }
   }
-  
+
   @keyframes fadeUp {
     from {
       opacity: 0;
@@ -2490,7 +2491,7 @@ textarea.input-dark {
       transform: translateY(0);
     }
   }
-  
+
   @keyframes slideInFromLeft {
     from {
       opacity: 0;
@@ -2501,16 +2502,16 @@ textarea.input-dark {
       transform: translateX(0);
     }
   }
-  
+
   .animate-shimmer {
     background-size: 200%;
     animation: shimmer 2s infinite;
   }
-  
+
   .animate-fade-up {
     animation: fadeUp 0.6s ease-out forwards;
   }
-  
+
   .animate-slide-in-left {
     animation: slideInFromLeft 0.5s ease-out forwards;
   }
@@ -2534,11 +2535,11 @@ textarea.input-dark {
   body {
     font-size: 16px; /* Évite zoom auto sur input sur iOS */
   }
-  
+
   h1 {
     font-size: 2rem;
   }
-  
+
   h2 {
     font-size: 1.5rem;
   }
@@ -2549,20 +2550,20 @@ textarea.input-dark {
    ────────────────────────────────────────────
 ```
 
-
 ## License: MIT
+
 https://github.com/mrsharpoblunto/it-gets-the-hose-again/blob/7fed6e6f148d88868f6b1980926144bae8f34864/web/assets/html/index.html
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -2588,7 +2589,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -2602,92 +2603,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -2699,37 +2700,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -2740,7 +2741,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -2749,24 +2750,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -2822,24 +2823,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -3109,7 +3110,7 @@ textarea.input-dark {
       background-position: 1000px 0;
     }
   }
-  
+
   @keyframes fadeUp {
     from {
       opacity: 0;
@@ -3120,7 +3121,7 @@ textarea.input-dark {
       transform: translateY(0);
     }
   }
-  
+
   @keyframes slideInFromLeft {
     from {
       opacity: 0;
@@ -3131,16 +3132,16 @@ textarea.input-dark {
       transform: translateX(0);
     }
   }
-  
+
   .animate-shimmer {
     background-size: 200%;
     animation: shimmer 2s infinite;
   }
-  
+
   .animate-fade-up {
     animation: fadeUp 0.6s ease-out forwards;
   }
-  
+
   .animate-slide-in-left {
     animation: slideInFromLeft 0.5s ease-out forwards;
   }
@@ -3164,11 +3165,11 @@ textarea.input-dark {
   body {
     font-size: 16px; /* Évite zoom auto sur input sur iOS */
   }
-  
+
   h1 {
     font-size: 2rem;
   }
-  
+
   h2 {
     font-size: 1.5rem;
   }
@@ -3179,20 +3180,20 @@ textarea.input-dark {
    ────────────────────────────────────────────
 ```
 
-
 ## License: MIT
+
 https://github.com/mrsharpoblunto/it-gets-the-hose-again/blob/7fed6e6f148d88868f6b1980926144bae8f34864/web/assets/html/index.html
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -3218,7 +3219,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -3232,92 +3233,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -3329,37 +3330,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -3370,7 +3371,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -3379,24 +3380,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -3452,24 +3453,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -3739,7 +3740,7 @@ textarea.input-dark {
       background-position: 1000px 0;
     }
   }
-  
+
   @keyframes fadeUp {
     from {
       opacity: 0;
@@ -3750,7 +3751,7 @@ textarea.input-dark {
       transform: translateY(0);
     }
   }
-  
+
   @keyframes slideInFromLeft {
     from {
       opacity: 0;
@@ -3761,16 +3762,16 @@ textarea.input-dark {
       transform: translateX(0);
     }
   }
-  
+
   .animate-shimmer {
     background-size: 200%;
     animation: shimmer 2s infinite;
   }
-  
+
   .animate-fade-up {
     animation: fadeUp 0.6s ease-out forwards;
   }
-  
+
   .animate-slide-in-left {
     animation: slideInFromLeft 0.5s ease-out forwards;
   }
@@ -3794,11 +3795,11 @@ textarea.input-dark {
   body {
     font-size: 16px; /* Évite zoom auto sur input sur iOS */
   }
-  
+
   h1 {
     font-size: 2rem;
   }
-  
+
   h2 {
     font-size: 1.5rem;
   }
@@ -3809,20 +3810,20 @@ textarea.input-dark {
    ────────────────────────────────────────────
 ```
 
-
 ## License: MIT
+
 https://github.com/mrsharpoblunto/it-gets-the-hose-again/blob/7fed6e6f148d88868f6b1980926144bae8f34864/web/assets/html/index.html
 
-```
+````
 Compris ! Je vais procéder **directement en générant tout le code complet** que vous pourrez copier/coller dans VS Code. Je vais avancer phase par phase, fichier par fichier.
 
 ---
 
-## 🚀 **PHASE 1 : FONDATIONS** 
+## 🚀 **PHASE 1 : FONDATIONS**
 
 Commençons par les fichiers essentiels. Je vais générer le code complet pour chaque fichier.
 
-### **1️⃣ Mettre à jour `tsconfig.json`** 
+### **1️⃣ Mettre à jour `tsconfig.json`**
 
 Remplacez le contenu par :
 
@@ -3848,7 +3849,7 @@ Remplacez le contenu par :
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
-```
+````
 
 ✅ **Changement clé** : `"strict": true` (lignes 7)
 
@@ -3862,92 +3863,92 @@ Remplacez le contenu par :
 // ================================================================
 
 export interface User {
-  id: string
-  slug: string
-  nom: string
-  email: string
-  telephone: string
-  residence: string
-  password_hash?: string
-  actif: boolean
-  cgu_acceptee: boolean
-  cgu_date?: string
-  created_at: string
-  boutique_nom: string
-  boutique_tagline: string
-  boutique_description: string
-  boutique_telephone: string
-  boutique_whatsapp: string
-  boutique_location: string
-  boutique_cover_url: string | null
-  boutique_theme: string
-  boutique_accent: string
+  id: string;
+  slug: string;
+  nom: string;
+  email: string;
+  telephone: string;
+  residence: string;
+  password_hash?: string;
+  actif: boolean;
+  cgu_acceptee: boolean;
+  cgu_date?: string;
+  created_at: string;
+  boutique_nom: string;
+  boutique_tagline: string;
+  boutique_description: string;
+  boutique_telephone: string;
+  boutique_whatsapp: string;
+  boutique_location: string;
+  boutique_cover_url: string | null;
+  boutique_theme: string;
+  boutique_accent: string;
 }
 
 export interface Product {
-  id: string
-  vendor_id: string
-  nom: string
-  prix: number
-  prix_original: number | null
-  categorie: string
-  description: string
-  image_url: string
-  en_stock: boolean
-  badge_text: string | null
-  badge_type: 'info' | 'promo' | 'alerte' | 'nouveau' | null
-  badge_color: string | null
-  ordre: number
-  created_at: string
+  id: string;
+  vendor_id: string;
+  nom: string;
+  prix: number;
+  prix_original: number | null;
+  categorie: string;
+  description: string;
+  image_url: string;
+  en_stock: boolean;
+  badge_text: string | null;
+  badge_type: "info" | "promo" | "alerte" | "nouveau" | null;
+  badge_color: string | null;
+  ordre: number;
+  created_at: string;
 }
 
 export interface CartItem extends Product {
-  qty: number
+  qty: number;
 }
 
 export interface StoreConfig {
-  nom: string
-  tagline: string
-  description: string
-  telephone: string
-  whatsapp: string
-  location: string
-  cover_url: string | null
-  theme: string
-  accent: string
+  nom: string;
+  tagline: string;
+  description: string;
+  telephone: string;
+  whatsapp: string;
+  location: string;
+  cover_url: string | null;
+  theme: string;
+  accent: string;
 }
 
 export interface Annonce {
-  id: string
-  titre: string
-  contenu: string
-  type: 'info' | 'promotion' | 'alerte' | 'nouveau'
-  whatsapp_envoye: boolean
-  created_at: string
+  id: string;
+  titre: string;
+  contenu: string;
+  type: "info" | "promotion" | "alerte" | "nouveau";
+  whatsapp_envoye: boolean;
+  created_at: string;
 }
 
 export interface CommunauteMessage {
-  id: string
-  vendor_id: string
-  contenu: string
-  image_url: string | null
-  reply_to_id: string | null
-  mentions: string[]
-  signalements: number
-  cache: boolean
-  created_at: string
+  id: string;
+  vendor_id: string;
+  contenu: string;
+  image_url: string | null;
+  reply_to_id: string | null;
+  mentions: string[];
+  signalements: number;
+  cache: boolean;
+  created_at: string;
 }
 
 export interface ToastMessage {
-  id: string
-  type: 'success' | 'error' | 'info' | 'warning'
-  message: string
-  duration?: number
+  id: string;
+  type: "success" | "error" | "info" | "warning";
+  message: string;
+  duration?: number;
 }
 
-export type ButtonVariant = 'primary' | 'secondary' | 'ghost' | 'icon'
-export type ButtonSize = 'sm' | 'md' | 'lg'
-export type CardVariant = 'glass' | 'glass-gold' | 'solid'
+export type ButtonVariant = "primary" | "secondary" | "ghost" | "icon";
+export type ButtonSize = "sm" | "md" | "lg";
+export type CardVariant = "glass" | "glass-gold" | "solid";
 ```
 
 ---
@@ -3959,37 +3960,37 @@ export type CardVariant = 'glass' | 'glass-gold' | 'solid'
 // Framer Motion Animation Presets
 // ================================================================
 
-import { Variants } from 'framer-motion'
+import { Variants } from "framer-motion";
 
 export const fadeUp: Variants = {
   initial: { opacity: 0, y: 30 },
   animate: { opacity: 1, y: 0, transition: { duration: 0.6 } },
   exit: { opacity: 0, y: -30, transition: { duration: 0.3 } },
-}
+};
 
 export const fadeIn: Variants = {
   initial: { opacity: 0 },
   animate: { opacity: 1, transition: { duration: 0.5 } },
   exit: { opacity: 0, transition: { duration: 0.3 } },
-}
+};
 
 export const scaleIn: Variants = {
   initial: { opacity: 0, scale: 0.9 },
   animate: { opacity: 1, scale: 1, transition: { duration: 0.4 } },
   exit: { opacity: 0, scale: 0.9, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromLeft: Variants = {
   initial: { opacity: 0, x: -50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: 50, transition: { duration: 0.3 } },
-}
+};
 
 export const slideInFromRight: Variants = {
   initial: { opacity: 0, x: 50 },
   animate: { opacity: 1, x: 0, transition: { duration: 0.5 } },
   exit: { opacity: 0, x: -50, transition: { duration: 0.3 } },
-}
+};
 
 export const containerVariants: Variants = {
   initial: { opacity: 0 },
@@ -4000,7 +4001,7 @@ export const containerVariants: Variants = {
       delayChildren: 0.1,
     },
   },
-}
+};
 
 export const itemVariants: Variants = {
   initial: { opacity: 0, y: 20 },
@@ -4009,24 +4010,24 @@ export const itemVariants: Variants = {
     y: 0,
     transition: { duration: 0.5 },
   },
-}
+};
 
 export const springScale = {
-  type: 'spring' as const,
+  type: "spring" as const,
   stiffness: 200,
   damping: 15,
-}
+};
 
 export const shimmerAnimation: Variants = {
   animate: {
-    backgroundPosition: ['-1000px 0', '1000px 0'],
+    backgroundPosition: ["-1000px 0", "1000px 0"],
     transition: {
       duration: 2,
       repeat: Infinity,
-      ease: 'linear',
+      ease: "linear",
     },
   },
-}
+};
 ```
 
 ---
@@ -4082,24 +4083,24 @@ Recherchez la section `"dependencies"` et remplacez-la par :
   --primary: #B8860B; /* Or profond */
   --primary-light: #D4AF6B;
   --primary-dark: #8B6F47;
-  
+
   /* Accents */
   --accent: #007A5E; /* Vert Cameroun */
   --accent-light: #009970;
   --accent-dark: #005A46;
-  
+
   /* Backgrounds & Text */
   --bg-primary: #0A0A0F; /* Noir velours */
   --bg-secondary: #12121A;
   --bg-tertiary: #1E1E2E;
-  
+
   --text-primary: #FAF7F2; /* Crème chaud */
   --text-secondary: #B8B0A0;
   --text-muted: #6D6659;
-  
+
   --border-color: rgba(201, 168, 76, 0.15);
   --border-color-soft: rgba(255, 255, 255, 0.06);
-  
+
   /* Status */
   --success: #2ECC71;
   --error: #EF4444;
@@ -4369,7 +4370,7 @@ textarea.input-dark {
       background-position: 1000px 0;
     }
   }
-  
+
   @keyframes fadeUp {
     from {
       opacity: 0;
@@ -4380,7 +4381,7 @@ textarea.input-dark {
       transform: translateY(0);
     }
   }
-  
+
   @keyframes slideInFromLeft {
     from {
       opacity: 0;
@@ -4391,16 +4392,16 @@ textarea.input-dark {
       transform: translateX(0);
     }
   }
-  
+
   .animate-shimmer {
     background-size: 200%;
     animation: shimmer 2s infinite;
   }
-  
+
   .animate-fade-up {
     animation: fadeUp 0.6s ease-out forwards;
   }
-  
+
   .animate-slide-in-left {
     animation: slideInFromLeft 0.5s ease-out forwards;
   }
@@ -4424,11 +4425,11 @@ textarea.input-dark {
   body {
     font-size: 16px; /* Évite zoom auto sur input sur iOS */
   }
-  
+
   h1 {
     font-size: 2rem;
   }
-  
+
   h2 {
     font-size: 1.5rem;
   }
@@ -4438,4 +4439,3 @@ textarea.input-dark {
    Print Styles
    ────────────────────────────────────────────
 ```
-
